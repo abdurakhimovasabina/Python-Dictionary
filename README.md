@@ -10,18 +10,7 @@ Quyidagi ma’lumotdan foydalangan holda `book` nomli dict tuz:
 
 ```python
 title: "Python Basics"
-author: "Diyorbek Jumanov"
-pages: 250
-```
-
-### 🎯 Task 3:
-
-Ikki dict yarat: `user1`, `user2`. Har birida `name`, `email` bo‘lsin. So‘ng ular ro‘yxatga joylashtirilsin:
-
-```python
-users = [user1, user2]
-```
-
+autho
 ---
 
 ## 🟩 2. **Dictionary Access Item**
